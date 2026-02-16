@@ -2,6 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Python](https://img.shields.io/badge/Python-future%20ML-lightgrey)
 ![Estado](https://img.shields.io/badge/estado-MVP-orange)
 
 
