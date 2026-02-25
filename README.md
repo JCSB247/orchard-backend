@@ -1,4 +1,4 @@
-# Orchaid Backend
+# Orchard Backend
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
@@ -11,9 +11,9 @@ for IoT, automation and data systems.
 
 🇪🇸 Leer en español: [README.es.md](README.es.md)
 
-# Orchaid Backend (MVP) — Java + Spring Boot
+# Orchard Backend (MVP) — Java + Spring Boot
 
-Backend services for **Orchaid**, a long-term personal project focused on **IoT, data and automation systems**.
+Backend services for **Orchard**, a long-term personal project focused on **IoT, data and automation systems**.
 
 This repository contains the first MVP of the backend API built with **Java and Spring Boot**, designed as the core service layer of the system.
 
@@ -47,7 +47,7 @@ Python remains the main tool for data processing and Machine Learning modules, w
 
 ## Project vision
 
-Orchaid aims to become an integrated system for:
+Orchard aims to become an integrated system for:
 
 - IoT data collection
 - Automation logic
